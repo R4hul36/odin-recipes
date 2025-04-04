@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is simple webpage showing simple recipes.
+This is simple webpage showing simple recipess.
